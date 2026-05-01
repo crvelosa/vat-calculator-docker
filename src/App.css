@@ -14,5 +14,8 @@
 
 body{
   padding: 10px;
-  background-color: rgb(255, 196, 0);
+  
+  background-image: url("image.jpg");
+  background-repeat: no-repeat;
 }
+
